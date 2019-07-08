@@ -32,3 +32,11 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 "# PublicProjects" 
 # PublicProjects
 "# PublicProjects" 
+
+------------------------------------------------------------------------------------------------------------
+                                                  SIMPLE TUTORIAL
+                                                  
+Have npm installed.
+Download/Clone files.
+Navigate to the file itself in terminal.
+type: `npm run serve` without the single quotes, then follow the local server link!
